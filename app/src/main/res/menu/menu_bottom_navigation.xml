@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_1"
+        android:icon="@mipmap/img_1"
+        android:title="@string/menu_bottom_navigation1"
+        />
+    <item
+        android:id="@+id/item_2"
+        android:icon="@mipmap/img_2"
+        android:title="@string/menu_bottom_navigation2"
+      />
+
+    <item
+        android:id="@+id/item_3"
+        android:icon="@mipmap/img_3"
+        android:title="@string/menu_bottom_navigation3"
+        />
+
+</menu>

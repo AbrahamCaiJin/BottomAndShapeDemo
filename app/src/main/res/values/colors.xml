@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--浅绿-->
+    <color name="colorLightGreen">#01bdab</color>
+    <!--红色-->
+    <color name="colorLightRed">#d53934</color>
+    <!--文字灰白色-->
+    <color name="colorTextGrey">#aaaaaa</color>
+    <!--背景白色-->
+    <color name="bg_white">#ffffff</color>
+
+
+
+</resources>

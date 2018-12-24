@@ -1,0 +1,11 @@
+<resources>
+	<string name = "app_name">notes</string>
+	<string name = "title_activity_main"></string>
+
+	<string name = "item_title_1">底部导航之布局</string>
+	<string name = "item_title_2">底部导航之BottomNavigationView</string>
+
+	<string name = "menu_bottom_navigation1">one</string>
+	<string name = "menu_bottom_navigation2">two</string>
+	<string name = "menu_bottom_navigation3">three</string>
+</resources>

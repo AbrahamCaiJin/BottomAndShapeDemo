@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="FunnyBubbleView">
+		<!--半径大小-->
+		<attr name="radius" format="dimension"/>
+		<!--气泡颜色-->
+		<attr name="color" format="color"/>
+		<!--要显示的文字-->
+		<attr name="text" format="string|reference"/>
+		<!--文字大小-->
+		<attr name="textSize" format="dimension"/>
+		<!--文字颜色-->
+		<attr name="textColor" format="color"/>
+	</declare-styleable>
+</resources>

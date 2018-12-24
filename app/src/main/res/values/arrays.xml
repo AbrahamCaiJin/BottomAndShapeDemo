@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_main_title">
+        <item >@string/item_title_1</item>
+        <item >@string/item_title_2</item>
+    </string-array>
+
+</resources>
